@@ -1,4 +1,4 @@
-# Class-Imbalance-using-Inverse-Random-UnderSampling-IRUS-
+# Class-Imbalance-Problem-using-Inverse-Random-UnderSampling-IRUS-
 
 
 # Problem Statement
