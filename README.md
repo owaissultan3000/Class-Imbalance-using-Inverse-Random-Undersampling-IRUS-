@@ -6,3 +6,6 @@ Many real world classification problems are represented by highly unbalanced dat
 
 # Solution
 The main idea is to severely under sample the majority class multiple times with each subset having fewer examples than the minority class. For each training set we then find a decision boundary which separates the majority class from the minority class. As the number of positive samples in each training set is greater than the number of negative samples, the focus in machine learning is on the positive class and consequently it can invariably be successfully separated from the negative class training samples. Thus, each training set yields one classifier design. By combining the multiple designs through fusion, we construct a composite boundary between the majority class and the minority class.The proposed methodology is applied on "HABERMAN" ('https://raw.githubusercontent.com/jbrownlee/Datasets/master/haberman.csv') data set and experimental results indicate a significant increase in performance when compared with many existing class-imbalance learning methods.
+
+# Research Paper
+https://ieeexplore.ieee.org/document/8361344
